@@ -2,7 +2,7 @@
 title: 👩🏻‍💻호빵이 공간
 description: AI for Security
 url: https://AIRS12.github.io
-avatar: /profile.jpeg
+avatar: /profile.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 현 경
+  url: https://github.com/AIRS12/
+  email: greena@korea.ac.kr
