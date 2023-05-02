@@ -34,7 +34,6 @@ instagram:
 social:
   name: greena
   links:
-    - https://twitter.com/vszhub
     - https://github.com/AIRS12
 google_site_verification: xxxxx
 lang: en
@@ -53,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: 현 경
+  name: Not Pure Pools
   url: https://github.com/AIRS12/
   email: greena@korea.ac.kr
