@@ -6,7 +6,6 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 categories: [jekyll theme]
 toc:  true
-# math: true #수식 사용하고 싶을 때
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
