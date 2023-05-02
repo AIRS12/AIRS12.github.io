@@ -5,7 +5,7 @@ url: https://AIRS12.github.io
 avatar: /profile.jpg
 paginate: 5
 permalink: pretty
-cover_image: /cover.jpg
+cover_image: /white.jpg
 
 # Gems
 plugins:
