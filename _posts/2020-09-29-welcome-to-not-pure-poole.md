@@ -4,7 +4,9 @@ title: Welcome to Not Pure Poole
 date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
+categories: [jekyll theme]
 toc:  true
+# math: true #수식 사용하고 싶을 때
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
@@ -20,7 +22,7 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
+때
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
 - <mark>To highlight</mark>, use `<mark>`.
